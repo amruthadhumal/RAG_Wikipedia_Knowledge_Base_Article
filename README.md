@@ -128,3 +128,10 @@ Through this project, I gained experience with:
 
 ---
 
+<img width="683" height="284" alt="image" src="https://github.com/user-attachments/assets/0177ea53-d2fa-4e77-a351-e92d82557c09" />
+
+---
+
+<img width="1382" height="404" alt="image" src="https://github.com/user-attachments/assets/f1819343-7850-4577-b1cc-81a95ca980e7" />
+
+
