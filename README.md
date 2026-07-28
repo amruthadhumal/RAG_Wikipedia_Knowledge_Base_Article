@@ -16,7 +16,7 @@ The system retrieves relevant information from a custom knowledge base before ge
 * Text embeddings using Sentence Transformers
 * FAISS vector database for semantic search
 * Retrieval-Augmented Generation (RAG) pipeline
-* Question-answering using an LLM (Mistral)
+* Question-answering using an LLM (TinyLlama)
 * Easy-to-understand implementation for learning purposes
 
 ---
@@ -51,7 +51,7 @@ The system retrieves relevant information from a custom knowledge base before ge
 
 #### Large Language Model
 
-* Mistral-7B-Instruct-v0.3
+* TinyLlama-1.1B-Chat-v1.0
 
 ---
 
@@ -128,10 +128,16 @@ Through this project, I gained experience with:
 
 ---
 
-<img width="683" height="284" alt="image" src="https://github.com/user-attachments/assets/0177ea53-d2fa-4e77-a351-e92d82557c09" />
+<img width="1416" height="562" alt="image" src="https://github.com/user-attachments/assets/dd6fcb45-8b41-4c82-87a9-553fd6ff8063" />
+
 
 ---
 
-<img width="1382" height="404" alt="image" src="https://github.com/user-attachments/assets/f1819343-7850-4577-b1cc-81a95ca980e7" />
+<img width="1393" height="178" alt="image" src="https://github.com/user-attachments/assets/ed8a5db0-f0a9-41cb-b4e3-292f3299f232" />
+
+---
+
+<img width="1385" height="567" alt="image" src="https://github.com/user-attachments/assets/1de54706-1bd0-4459-ac14-54178415bb58" />
+
 
 
