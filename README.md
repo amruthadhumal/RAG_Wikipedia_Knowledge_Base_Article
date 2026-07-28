@@ -23,7 +23,8 @@ The system retrieves relevant information from a custom knowledge base before ge
 
 ## Project Architecture
 
-<img width="580" height="460" alt="image" src="https://github.com/user-attachments/assets/497d9ce0-1d87-4254-a6c4-0e516f04fe38" />
+<img width="631" height="508" alt="image" src="https://github.com/user-attachments/assets/0f5c672e-cb7a-49f6-8463-cc64c66d80da" />
+
 
 ---
 
